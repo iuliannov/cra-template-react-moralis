@@ -7,7 +7,9 @@
     "moralis",
     "react-moralis",
     "template",
-    "react"
+    "react",
+    "cra template",
+    "create-react-app"
   ],
   "description": "create-react-app template for easy react-moralis start",
   "scripts": {
