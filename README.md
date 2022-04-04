@@ -6,10 +6,20 @@ This template is meant to help the users with the extra package configuration wh
 
 ## Installation
 
-Make sure you have [nodejs](https://nodejs.org/en/download/) installed.
+Npm
 
 ```
 npx create-react-app your-app-name --template react-moralis
+```
+
+```
+cd your-app-name
+```
+
+Yarn
+
+```
+yarn create react-app your-app-name --template react-moralis
 ```
 
 ```
