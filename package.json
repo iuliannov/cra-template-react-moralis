@@ -13,5 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rainsbrackets"
+  "author": "rainsbrackets",
+  "repository": "https://github.com/rainsbrackets/cra-template-rains.git",
+  "private": false
 }
