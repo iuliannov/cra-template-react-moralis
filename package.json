@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-react-moralis",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "moralis",
+    "react-moralis",
+    "template",
+    "react"
+  ],
+  "description": "create-react-app template for easy react-moralis start",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rainsbrackets"
+}
